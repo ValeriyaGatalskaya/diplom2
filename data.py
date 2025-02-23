@@ -1,3 +1,4 @@
+# data.py
 order_body = {
     "firstName": "Kak",
     "lastName": "Nadoelo",
@@ -5,7 +6,7 @@ order_body = {
     "metroStation": 4,
     "phone": "+7 977 981 21 36",
     "rentTime": 5,
-    "deliveryDate": "2025-23-02",
+    "deliveryDate": "2025-02-24",  # Изменила
     "comment": "Ya hochy spat",
     "color": [
         "BLACK"
